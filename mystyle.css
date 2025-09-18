@@ -1,0 +1,9 @@
+.display_de_amigos{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  background-color: antiquewhite;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
